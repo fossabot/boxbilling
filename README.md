@@ -16,6 +16,7 @@
 [![License](https://img.shields.io/badge/License-Apache%202.0-blue.svg)](https://opensource.org/licenses/Apache-2.0)
 [![Scrutinizer Code Quality](https://scrutinizer-ci.com/g/boxbilling/boxbilling/badges/quality-score.png?b=master)](https://scrutinizer-ci.com/g/boxbilling/boxbilling/?branch=master)
 [![CodeFactor](https://www.codefactor.io/repository/github/boxbilling/boxbilling/badge)](https://www.codefactor.io/repository/github/boxbilling/boxbilling)
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Fevrifaessa%2Fboxbilling.svg?type=shield)](https://app.fossa.com/projects/git%2Bgithub.com%2Fevrifaessa%2Fboxbilling?ref=badge_shield)
 
 </div>
 
@@ -145,6 +146,9 @@ Don't hesitate to create an [issue](https://github.com/boxbilling/boxbilling/iss
 BoxBilling is open source software, and is released under the Apache v2.0 license. See [LICENSE](https://github.com/boxbilling/boxbilling/blob/master/LICENSE) for the full license terms.
 
 This product includes GeoLite2 data created by MaxMind, available from [https://www.maxmind.com](https://www.maxmind.com).
+
+
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Fevrifaessa%2Fboxbilling.svg?type=large)](https://app.fossa.com/projects/git%2Bgithub.com%2Fevrifaessa%2Fboxbilling?ref=badge_large)
 
 ## Links
 
